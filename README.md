@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SUDIP KUMAR</h1>
+<h1 align="center">Hi 👋, I'm SUDIP BASAK</h1>
 <h3 align="center">I am a dedicated and enthusiastic Computer Science Engineering student with a strong foundation in programming languages, algorithms, and data structures.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
